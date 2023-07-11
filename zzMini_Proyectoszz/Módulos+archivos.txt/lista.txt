@@ -1,0 +1,5 @@
+LISTA DE PERSONAS CUYO SUELDO ES MAYOR O IGUAL A $700000 
+emi ------ $100000.0 
+maca ------ $200000.0 
+ariel ------ $123456.0 
+renzo ------ $1923023.0 

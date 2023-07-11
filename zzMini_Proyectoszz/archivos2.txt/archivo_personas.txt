@@ -1,0 +1,8 @@
+emi 
+20 
+alma 
+22 
+maca 
+20 
+jairo 
+21 

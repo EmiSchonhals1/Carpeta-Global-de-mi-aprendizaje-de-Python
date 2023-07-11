@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Enrutamiento_de_Modulos"
+    ]
+}
